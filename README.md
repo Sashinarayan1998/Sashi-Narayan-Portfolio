@@ -3,7 +3,7 @@
 <h2>👨‍💻  Projects:</h2>
 
 - <b>Colmar Academy</b>
-  - [Edu-tech mini Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Edu-tech mini Project](https://github.com/Sashinarayan1998/colmaracdemy)
 - <b>E-Commerce</b>
   - [E-Commerce mini Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>E-Commerce Final Project</b>
