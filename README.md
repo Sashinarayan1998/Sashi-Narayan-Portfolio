@@ -5,29 +5,29 @@
 - <b>Colmar Academy</b>
   - [Edu-tech mini Project](https://github.com/Sashinarayan1998/colmaracdemy)
 - <b>E-Commerce</b>
-  - [E-Commerce mini Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [E-Commerce mini Project](https://github.com/Sashinarayan1998/mini-project2) <b><i></b></i>
 - <b>E-Commerce Final Project</b>
-  - [Final Project in E-Commerce](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Final Project in E-Commerce]()
 
 <h2>Certifications </h2>
 
-- [Java In Greate Learning](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Python Infosys](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Javascript Programming Hub](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [CSS in greate Learning](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [HTML in Programming Hub](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Java In Greate Learning]()
+- [Python Infosys]()
+- [Javascript Programming Hub]()
+- [CSS in greate Learning]()
+- [HTML in Programming Hub]()
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/feed/?trk=sem-ga_campid%3D14650114788_asid%3D127961666300_crid%3D601257986824_kw%3Dlinkedin%20login_d%3Dc_tid%3Dkwd-12704335873_n%3Dg_mt%3De_geo%3D1007799_slid%3D)" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: 
+[youtube]: 
+[instagram]: 
+[linkedin]: [https://linkedin.com/in/joshmadako](https://www.linkedin.com/feed/?trk=sem-ga_campid%3D14650114788_asid%3D127961666300_crid%3D601257986824_kw%3Dlinkedin%20login_d%3Dc_tid%3Dkwd-12704335873_n%3Dg_mt%3De_geo%3D1007799_slid%3D)r
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
